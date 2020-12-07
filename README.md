@@ -10,6 +10,7 @@ QAAS wiki &amp; git 新手指引
 - wiki服务主体部署在本地服务器上，内容托管在github上，是私有项目
 - 任意人可以通过内网或外网IPv6通道访问wiki,若需要上传内容，需要联系管理员获取读写权限
 - QAASOpenSource/Wiki存储相应的wiki内容，采用markdown形式编写
+- 服务器会定期更新网页内容
 
 **上传更新指引**
 - 上传更新的内容要push到QAASOpenSource/Wiki里
