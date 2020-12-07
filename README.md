@@ -11,7 +11,7 @@ QAAS wiki &amp; git 新手指引
 - 任意人可以通过内网或外网IPv6通道访问wiki,若需要上传内容，需要联系管理员获取读写权限
 - QAASOpenSource/Wiki存储相应的wiki内容，采用markdown形式编写
 
-**上传跟新指引**
+**上传更新指引**
 - 上传更新的内容要push到QAASOpenSource/Wiki里
 - postA.md里的插图放在QAASOpenSource/Wiki/postA/里
 - 添加图片时路径直接写图片名字
